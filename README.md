@@ -10,9 +10,9 @@ the examples and explanations they need to cover and be a resource for computer 
 
 ## Table of Contents 📝
 - [Getting Started](#getting-started)
-  - [Prerequisites](##prerequisites)
-  - [Installation](##installation)
-- [Python](#pyhton)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Python](#python)
 - [Usage & Contributing](#usage--contributing)
 - [License](#license)
 - [Resources](#resources)
@@ -45,7 +45,7 @@ repository, make your changes, and submit a pull request.</p>
   <li>Install dependencies: npm install or pip install -r requirements.txt</li>
 </ul>
 
-## Python
+## Python 🐍
 
 <p align="justify">Now, it's time to explore some basic Python concepts such as variables, data types, loops, and functions. You can find examples and explanations for
 these topics in the repository. Python is a versatile language with many applications. Take your time to experiment with different code snippets, explore
