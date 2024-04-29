@@ -9,7 +9,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](##prerequisites)
   - [Installation](##installation)
-- [Python](#pyhton)
+- [Python](#pyhton-🐍)
 - [Usage & Contributing](#usage--contributing)
 - [License](#license)
 - [Resources](#resources)
