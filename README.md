@@ -12,7 +12,7 @@ the examples and explanations they need to cover and be a resource for computer 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Python](#python)
+- [Python :snake:](#python)
 - [Usage & Contributing](#usage--contributing)
 - [License](#license)
 - [Resources](#resources)
