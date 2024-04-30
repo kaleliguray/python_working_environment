@@ -40,6 +40,10 @@ repository, make your changes, and submit a pull request.</p>
 </ol>
 
 > **_NOTE_** PyCharm is an IDE built using Java. Therefore, to run PyCharm, you need to install Java first. If Java is not installed on your computer, you may encounter a 'no JRE found' error message. To resolve this issue, you must install Java on your computer.
+
+> **_NOTE_** <a href="https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb">Jupyter Notebook Users Manual
+
+> **_NOTE_** <a href="https://nbviewer.org"> nbviewer - This webpage facilitates easy viewing and reading of Jupyter Notebook code."
 <hr>
 <ul>
   <li>Clone the repository: git clone https://github.com/kaleliguray/python_working_environment.git</li>
@@ -97,5 +101,6 @@ The Unlicense
 <p align="justify"><b>Course</b></p>
 <ul>
     <li>Mustafa Murat Coşkun - <a href="https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/learn/lecture/13411502#overview">Python|Programming from zero to advance</li>
+    <li>Mustafa Murat Çoskun - <a href="https://github.com/mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama">GitHub Account</li>
 </ul>
 
